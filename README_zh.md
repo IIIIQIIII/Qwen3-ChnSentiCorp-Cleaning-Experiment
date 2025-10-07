@@ -35,7 +35,7 @@
 ### 步骤 1: 克隆本项目
 
 ```bash
-git clone https://github.com/your-username/Qwen3-ChnSentiCorp-Cleaning-Experiment.git
+git clone https://github.com/IIIIQIIII/Qwen3-ChnSentiCorp-Cleaning-Experiment.git
 cd Qwen3-ChnSentiCorp-Cleaning-Experiment
 ```
 

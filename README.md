@@ -34,7 +34,7 @@ Follow these steps to set up the environment for both inference and training.
 ### Step 1: Clone This Repository
 
 ```bash
-git clone https://github.com/your-username/Qwen3-ChnSentiCorp-Cleaning-Experiment.git
+git clone https://github.com/IIIIQIIII/Qwen3-ChnSentiCorp-Cleaning-Experiment.git
 cd Qwen3-ChnSentiCorp-Cleaning-Experiment
 ```
 
